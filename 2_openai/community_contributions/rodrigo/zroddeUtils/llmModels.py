@@ -1,0 +1,18 @@
+Gpt_41_nano = "openai/gpt-4.1-nano"
+Gpt_41_mini = "openai/gpt-4.1-mini"
+Claude_37_sonnet = "anthropic/claude-3.7-sonnet"
+Gemini_25_Flash_Preview_thinking = "google/gemini-2.5-flash-preview:thinking"
+deepseek_deepseek_r1 = "deepseek/deepseek-r1"
+meta_llama_4_scout = "meta-llama/llama-4-scout"
+
+Claude_35_haiku = "anthropic/claude-3-haiku:beta"
+Gemini_20_flash_001 = "google/gemini-2.0-flash-001"
+
+free_gemma_3_12b_it = "google/gemma-3-12b-it:free"
+free_mistral_Small_31_24B = "mistralai/mistral-small-3.1-24b-instruct:free"
+free_deepSeek_r1_0528 = "deepseek/deepseek-r1-0528:free"
+free_meta_Llama_4_Maverick = "meta-llama/llama-4-maverick:free"
+free_nous_Hermes_3_Mistral_24B = "nousresearch/deephermes-3-mistral-24b-preview:free"
+free_gemini_20_flash_exp = "google/gemini-2.0-flash-exp:free"
+free_gemini_25_pro_exp_03_25 = "google/gemini-2.5-pro-exp-03-25"
+free_minimax_m1_extended = "minimax/minimax-m1:extended"
